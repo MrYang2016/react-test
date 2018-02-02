@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAO;EACL,SAAS,EAAC,IAAI",
+"sources": ["Board.scss"],
+"names": [],
+"file": "Board.css"
+}
