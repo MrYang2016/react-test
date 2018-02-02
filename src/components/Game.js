@@ -25,7 +25,7 @@ class Game extends Component {
     }
 
     jumpTo(i) {
-
+        console.log('!!!');
     }
 
     render() {
